@@ -48,7 +48,7 @@
 <details> 
   <summary><h2>💼 VEJA TODOS OS MEUS REPOSITÓRIOS</h2></summary>
   <p align="left">
-  <a href="https://github.com/luana-Mozer?tab=repositories&sort=stargazers"><img title="REPOSITÓRIO" src="[REPO](https://github.com/Luana-Mozer?tab=repositories)"/></a></p>
+  [REPOSITÓRIOS](https://github.com/Luana-Mozer?tab=repositorie)
 </details>
 
 
