@@ -48,7 +48,7 @@
 <details> 
   <summary><h2>💼 VEJA TODOS OS MEUS REPOSITÓRIOS</h2></summary>
   <p align="left">
-  [REPOSITÓRIOS](https://github.com/Luana-Mozer?tab=repositorie)
+   <a href="https://github.com/Luana-Mozer?tab=repositories">REPOSITÓRIOS</a>
 </details>
 
 
