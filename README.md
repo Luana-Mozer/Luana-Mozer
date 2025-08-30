@@ -1,6 +1,6 @@
 # Ola! Eu sou a Luana Mozer 🙋🏼‍♀️
  🌈 Trans 🏠 São Paulo SP 📚 ENGENHARIA DE SOFTWARE 1/8
-### Atualmente sou estudante de Engenharia de Software na instituição Anhanguera, sou apaixonada por tecnologia desde criança e agora tenho a oportunidade de trabalhar na área. [Linkedin](https://www.linkedin.com/in/luanamozer)<br>
+### Sou apaixonada por tecnologia desde criança e agora tenho a oportunidade de trabalhar na área. [Linkedin](https://www.linkedin.com/in/luanamozer)<br>
 
  Procuro um estágio na área de programação, pois é onde me dou muito bem. Gosto de aprender coisas novas todos os dias e acredito que isso seja um match com a área Tech.
  Estou atualmente fazendo um curso de HTML+css3 com o professor Gustavo Guanabara e estou aprendendo a linguagem de programação C, fora isso tenho cursos como de Big Data, Análise de Sistemas, Data Science e Segurança da Informação e análise de dados e suas aplicações.
