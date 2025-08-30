@@ -1,12 +1,15 @@
-# Ola! Eu sou a Luana Mozer 🙋🏼‍♀️
- 🌈 Trans 🏠 São Paulo SP 📚 ENGENHARIA DE SOFTWARE 1/8
-### Sou apaixonada por tecnologia desde criança e agora tenho a oportunidade de trabalhar na área. [Linkedin](https://www.linkedin.com/in/luanamozer)<br>
+# Ola! Eu sou a Luana Mozer 👩‍💻
+ 🌈 Mulher Trans    🏠 São Paulo SP    📚 ENGENHARIA DE SOFTWARE 1/8 
+### Sou apaixonada por tecnologia desde criança e agora tenho a oportunidade de trabalhar na área.<br> 
+### Confira meu [Linkedin](https://www.linkedin.com/in/luanamozer)<br>
 
  Procuro um estágio na área de programação, pois é onde me dou muito bem. Gosto de aprender coisas novas todos os dias e acredito que isso seja um match com a área Tech.
  Estou atualmente fazendo um curso de HTML+css3 e aprendendo a linguagem de programação C, fora isso tenho cursos como de Big Data, Análise de Sistemas, Data Science e Segurança da Informação e análise de dados e suas aplicações.
  Tenho também Office avançado e inglês intermediário, acredito que estou no caminho certo para ser uma grande engenheira <br> 
 
-<p>
+<details open> 
+  <summary><h2>💻 Linguagens e 📟 Tecnologias</h2></summary>
+  <p align="left">
  <img 
     align="left" 
     alt="Git" 
@@ -44,15 +47,16 @@
 </p>
 <br/>
 <br/>
-
-<details> 
-  <summary><h2>💼 VEJA TODOS OS MEUS REPOSITÓRIOS</h2></summary>
-  <p align="left">
-   <a href="https://github.com/Luana-Mozer?tab=repositories">REPOSITÓRIOS</a>
 </details>
+<details open> 
+  <summary><h2>💼 VEJA TODOS OS MEUS PROJETOS</h2></summary>
+  <p align="left">
+   📝<a href="https://github.com/Luana-Mozer?tab=repositories">REPOSITÓRIOS</a>
+</details>
+<br/>
+<br/>
 
-
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
   <img 
