@@ -7,6 +7,14 @@
  Tenho também Office avançado e inglês intermediário, acredito que estou no caminho certo para ser uma grande engenheira <br> 
 
 <p>
+ <img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 <img 
     align="left" 
     alt="HTML"
@@ -24,21 +32,14 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="C" 
     title="C"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://github.com/user-attachments/assets/326ca6e7-b68d-4337-a8cd-56c52da60fae"
 />
 </p>
 <br/>
