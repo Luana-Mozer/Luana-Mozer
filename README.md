@@ -39,6 +39,12 @@
 </p>
 <br/>
 <br/>
+<details open> 
+  <summary><h2>💼 VEJA TODOS OS MEUS REPOSITÓRIOS</h2></summary>
+
+  <p align="left">
+  <a href="[[[https://github.com/Luana-Mozer?tab=repositories&sort=stargazers](https://github.com/Luana-Mozer?tab=repositories)](https://github.com/Luana-Mozer?tab=repositories)](https://github.com/Luana-Mozer?tab=repositories)"><img alt="REPOSITÓTIOS" title="REPOSITÓTIOS" src="[[https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo](https://github.com/Luana-Mozer?tab=repositories)](https://github.com/Luana-Mozer?tab=repositories)"/></a>
+</details>
 
 ### 📊 Estatísticas
 
