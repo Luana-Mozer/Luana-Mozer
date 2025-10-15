@@ -3,9 +3,10 @@
 ### Sou apaixonada por tecnologia desde criança e agora tenho a oportunidade de trabalhar na área.<br> 
 ### Confira meu [Linkedin](https://www.linkedin.com/in/luanamozer)<br>
 
+ Atualmente sou estudante de Engenharia de Software na instituição Anhanguera, sou apaixonada por tecnologia desde criança e agora tenho a oportunidade de trabalhar na área.
  Procuro um estágio na área de programação, pois é onde me dou muito bem. Gosto de aprender coisas novas todos os dias e acredito que isso seja um match com a área Tech.
- Estou atualmente fazendo um curso de HTML+css3 e aprendendo as linguagens de programação C e PYTHON, fora isso tenho cursos como de Big Data, Análise de Sistemas, Data Science e Segurança da Informação e análise de dados e suas aplicações.
- Tenho também Office avançado e inglês intermediário, acredito que estou no caminho certo para ser uma grande engenheira <br> 
+ Estou atualmente aprendendo as linguagens de programação C e Python, fora isso tenho cursos como de HTML5 + css3, JavaScript, Git + Github, Excel, Big Data, Análise de   Sistemas, Data Science e Segurança da Informação e análise de dados e suas aplicações.
+ Tenho também Office avançado e inglês intermediário, acredito que estou no caminho certo para ser uma grande engenheira. <br> 
 
 <details open> 
   <summary><h2>💻 Linguagens e 📟 Tecnologias</h2></summary>
