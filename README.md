@@ -52,6 +52,14 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
 </p>
 <br/>
 <br/>
@@ -68,7 +76,7 @@
 
 <p>
   <img 
-    align="left" 
+    align="lef" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -76,7 +84,7 @@
   />
 
 <img 
-      align="left" 
+      align="lef" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana-Mozer&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
