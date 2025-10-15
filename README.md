@@ -75,20 +75,25 @@
 
 ## 📊 Estatísticas
 
-<p>
+<div style="display: flex; justify-content: flex-start; gap: 10px; overflow-x: auto;">
+
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana-Mozer&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    height="300" 
+    src="https://github-readme-stats.vercel.app/api?username=Luana-Mozer&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_buster=5"
+  />
+    <img 
+    alt="Tecnologias" 
+    height="250" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana-Mozer&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_buster=5"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api?username=Luana-Mozer&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  <img
+    alt="GitHub Trophies"
+    height="180"
+    src="https://github-profile-trophy.vercel.app/?username=Luana-Mozer&theme=tokyonight"
   />
 
-</p>
+</div>
+
+<br>
