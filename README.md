@@ -1,5 +1,5 @@
 # Ola! Eu sou a Luana Mozer 👩‍💻
- 🌈 Mulher Trans    🏠 São Paulo SP    📚 ENGENHARIA DE SOFTWARE 1/8 
+ 🌈 Mulher Trans    🏠 São Paulo SP    📚 ENGENHARIA DE SOFTWARE 2/8 
 ### Sou apaixonada por tecnologia desde criança e agora tenho a oportunidade de trabalhar na área.<br> 
 ### Confira meu [Linkedin](https://www.linkedin.com/in/luanamozer)<br>
 
