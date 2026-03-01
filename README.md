@@ -4,6 +4,7 @@
  🌈 Mulher Trans    🏠 São Paulo SP    📚 ENGENHARIA DE SOFTWARE 2/8 
 ### Sou apaixonada por tecnologia desde criança e agora tenho a oportunidade de trabalhar na área.<br> 
 ### Confira meu [Linkedin](https://www.linkedin.com/in/luanamozer)<br>
+### Confira meu [PORTIFÓLIO](https://luana-mozer.github.io/PORTIFOLIO/)<br>
 
  Atualmente sou estudante de Engenharia de Software na instituição Anhanguera, sou apaixonada por tecnologia desde criança e agora tenho a oportunidade de trabalhar na área.
  Procuro um estágio na área de programação, pois é onde me dou muito bem. Gosto de aprender coisas novas todos os dias e acredito que isso seja um match com a área Tech.
@@ -70,7 +71,7 @@
 <details open> 
   <summary><h2>💼 VEJA TODOS OS MEUS PROJETOS</h2></summary>
   <p align="left">
-   📝<a href="https://github.com/Luana-Mozer?tab=repositories">REPOSITÓRIOS</a>
+   📝<a href="https://github.com/Luana-Mozer?tab=repositories">PROJETOS</a>
 </details>
 <br/>
 <br/>
