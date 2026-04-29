@@ -1,4 +1,4 @@
-<img width="949" height="279" alt="Image" src="https://github.com/user-attachments/assets/4425e693-4ae6-4d37-a5be-780bd1b1a28c" />
+<img width="1077" height="309" alt="Image" src="https://github.com/user-attachments/assets/319417b8-62d5-4076-953f-21e05dd0f22c" />
 
 # Ola! Eu sou a Luana Mozer 👩‍💻
  🌈 Mulher Trans    🏠 São Paulo SP    📚 ENGENHARIA DE SOFTWARE 2/8 
