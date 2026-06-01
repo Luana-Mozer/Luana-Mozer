@@ -1,4 +1,4 @@
-<img width="1077" height="309" alt="Image" src="https://github.com/user-attachments/assets/319417b8-62d5-4076-953f-21e05dd0f22c" />
+<img width="2064" height="512" alt="Image" src="https://github.com/user-attachments/assets/f12c268b-b5ac-4399-8e41-efbc087af05f" />
 
 # Ola! Eu sou a Luana Mozer 👩‍💻
  🌈 Mulher Trans    🏠 São Paulo SP    📚 ENGENHARIA DE SOFTWARE 2/8 
@@ -6,10 +6,21 @@
 ### Confira meu [Linkedin](https://www.linkedin.com/in/luanamozer)<br>
 ### Confira meu [PORTFÓLIO](https://luana-mozer.github.io/PORTIFOLIO/)<br>
 
- Atualmente sou estudante de Engenharia de Software na instituição Anhanguera, sou apaixonada por tecnologia desde criança e agora tenho a oportunidade de trabalhar na área.
- Procuro um estágio na área de programação, pois é onde me dou muito bem. Gosto de aprender coisas novas todos os dias e acredito que isso seja um match com a área Tech.
- Estou atualmente aprendendo as linguagens de programação C e Python, fora isso tenho cursos como de HTML5 + css3, JavaScript, Git + Github, Excel, Big Data, Análise de   Sistemas, Data Science, Segurança da Informação e análise de dados e suas aplicações.
- Tenho também Office avançado e inglês intermediário(B1), acredito que estou no caminho certo para ser uma grande engenheira. <br> 
+Competências e habilidades:
+
+* Perfil analítico, comunicativo e criativo voltado à solução de problemas complexos.
+* Facilidade na tomada de decisões; 
+* Boa adaptação a trabalho em equipe e ambientes dinâmicos.
+
+Conhecimentos técnicos:
+* Python, automação, agentes de IA e análise de dados.
+* n8n
+* MySQL
+* Power BI
+* Front end (HTML, CSS, JavaScript)
+* Git e GitHub
+* Pacote Office avançado;
+* Inglês intermediário (B1) <br> 
 
 <details open> 
   <summary><h2>💻 Linguagens e 📟 Tecnologias</h2></summary>
@@ -63,7 +74,30 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Power BI"
+    title="Power BI" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-2013.png" 
+/>
+<img 
+    align="left" 
+    alt="n8n"
+    title="n8n" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/d/d9/N8n_logo.png" 
+/>
 </p>
 <br/>
 <br/>
