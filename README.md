@@ -6,13 +6,13 @@
 ### Confira meu [Linkedin](https://www.linkedin.com/in/luanamozer)<br>
 ### Confira meu [PORTFÓLIO](https://luana-mozer.github.io/PORTIFOLIO/)<br>
 
-Competências e habilidades:
+## Competências e habilidades:
 
 * Perfil analítico, comunicativo e criativo voltado à solução de problemas complexos.
 * Facilidade na tomada de decisões; 
 * Boa adaptação a trabalho em equipe e ambientes dinâmicos.
 
-Conhecimentos técnicos:
+## Conhecimentos técnicos:
 * Python, automação, agentes de IA e análise de dados.
 * n8n
 * MySQL
