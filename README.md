@@ -8,19 +8,29 @@
 
 ## Competências e habilidades:
 
-* Perfil analítico, comunicativo e criativo voltado à solução de problemas complexos.
-* Facilidade na tomada de decisões; 
-* Boa adaptação a trabalho em equipe e ambientes dinâmicos.
+✅ Perfil analítico, comunicativo e criativo, voltado à solução de problemas complexos.
+
+✅ Facilidade na tomada de decisões e raciocínio lógico.
+
+✅ Boa adaptação a trabalho em equipe e ambientes dinâmicos.
 
 ## Conhecimentos técnicos:
-* Python, automação, agentes de IA e análise de dados.
-* n8n
-* MySQL
-* Power BI
-* Front end (HTML, CSS, JavaScript)
-* Git e GitHub
-* Pacote Office avançado;
-* Inglês intermediário (B1) <br> 
+
+🔵 Python, automação, agentes de IA e análise de dados.
+
+🔵 n8n
+
+🔵 Power BI
+
+🔵 MySQL
+
+🔵 Pacote Office
+
+🔵 Front-end (HTML, CSS e JavaScript)
+
+🔵 Git e GitHub
+
+🔵 Inglês intermediário (B1)
 
 <details open> 
   <summary><h2>💻 Linguagens e 📟 Tecnologias</h2></summary>
