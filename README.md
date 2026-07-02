@@ -1,7 +1,7 @@
 <img width="2064" height="512" alt="Image" src="https://github.com/user-attachments/assets/f12c268b-b5ac-4399-8e41-efbc087af05f" />
 
 # Ola! Eu sou a Luana Mozer 👩‍💻
- 🌈 Mulher Trans    🏠 São Paulo SP    📚 ENGENHARIA DE SOFTWARE 2/8 
+ 🌈 Mulher Trans    🏠 São Paulo SP    📚 ENGENHARIA DE SOFTWARE 3/8 
 ### Sou apaixonada por tecnologia desde criança e agora tenho a oportunidade de trabalhar na área.<br> 
 ### Confira meu [Linkedin](https://www.linkedin.com/in/luanamozer)<br>
 ### Confira meu [PORTFÓLIO](https://luana-mozer.github.io/PORTIFOLIO/)<br>
